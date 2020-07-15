@@ -4,8 +4,6 @@
 
 bool running = true;
 
-
-
 void main()
 {
     while (running)
